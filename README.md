@@ -29,12 +29,13 @@ TextUtils is a simple React-based web application that helps users perform basic
 
 ---
 ## 🎯 What I Learned
-React components and props
-State management using useState
-Event handling in React
-Conditional rendering (Dark Mode)
-Basic UI design using Bootstrap
-Text manipulation logic in JavaScript
+
+-React components and props
+-State management using useState
+-Event handling in React
+-Conditional rendering (Dark Mode)
+-Basic UI design using Bootstrap
+-Text manipulation logic in JavaScript
 
 ## 📂 Project Setup
 
