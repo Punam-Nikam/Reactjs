@@ -52,7 +52,7 @@ npm install
 npm start
 
 ### How to Clone This Project
-git clone https://github.com/your-username/textutils.git
+git clone https://github.com/Punam-Nikam/Reactjs.git
 cd textutils
 npm install
 npm start
