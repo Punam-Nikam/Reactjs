@@ -38,8 +38,8 @@ Text manipulation logic in JavaScript
 
 ## 📂 Project Setup
 
-### 1. Create React App (if starting from scratch)
-```bash
+## 1. Create React App (if starting from scratch)
+
 npx create-react-app textutils
 
 ## 2. Move into project folder
@@ -57,4 +57,4 @@ cd textutils
 npm install
 npm start
 
-----]
+----
